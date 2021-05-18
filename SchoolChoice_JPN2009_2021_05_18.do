@@ -12,8 +12,6 @@ Department of Quantitative Methods
 University of the Basque Country (UPV/EHU)
 Avda. Lehendakari Aguirre, 83
 E48015 Bilbao, Spain
-E-mail: petr.mariel@ehu.es
-Tel.: +34.94.601.3848
 
 Nobuhiro Sanko
 Graduate School of Business Administration
